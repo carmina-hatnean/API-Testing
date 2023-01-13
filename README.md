@@ -1,9 +1,11 @@
 # API - Testing
+##CRUD Tests
 
 ----------------------
 ![PHP-Mysql-REST-API-CRUD](https://user-images.githubusercontent.com/85248462/212420401-319d0723-431d-465e-96ce-082ca9eddfcc.png)
 
 -----------------
+## Get all users
 ![Get all users](https://user-images.githubusercontent.com/85248462/212417122-461c83ce-b72d-4206-a413-2c942881f90b.png)
 
 ------------------
