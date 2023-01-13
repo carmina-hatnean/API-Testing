@@ -3,8 +3,8 @@
 
 ----------------------
 ## Database
-![PHP-Mysql-REST-API-CRUD](https://user-images.githubusercontent.com/85248462/212420401-319d0723-431d-465e-96ce-082ca9eddfcc.png)
 
+![PHP-Mysql-REST-API-CRUD](https://user-images.githubusercontent.com/85248462/212421369-f9d05437-3c97-4a51-b6b2-50f6295ade4a.png)
 -----------------
 ## Get all users
 ![Get all users](https://user-images.githubusercontent.com/85248462/212417122-461c83ce-b72d-4206-a413-2c942881f90b.png)
